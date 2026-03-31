@@ -1,7 +1,8 @@
-
+![ColdFusion](https://img.shields.io/badge/ColdFusion-005FA4?style=flat&logo=adobe&logoColor=white)
 # Angular Shop - API
 
 Este é o back-end de um projeto de estudo desenvolvido para integrar ColdFusion com um front-end em Angular. A aplicação serve uma API RESTful simples que fornece uma lista de produtos (cursos de tecnologia) e gerencia as permissões de CORS necessárias para a comunicação direta com o front-end.
+
 
 ## Arquitetura
 
