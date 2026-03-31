@@ -54,4 +54,7 @@ Comando HTTP: ```GET /?reload=true```
 
 Isso forçará a aplicação a ser reiniciada e os mocks do repositório serão recriados na próxima requisição.
 
-Desenvolvido por Mariana como projeto prático de integração entre Angular e ColdFusion.
+<hr>
+
+
+<mark>Desenvolvido por <strong> Mariana Eslan </strong> como projeto prático de integração entre Angular e ColdFusion.</mark>
