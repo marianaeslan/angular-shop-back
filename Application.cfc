@@ -3,6 +3,7 @@ component {
     this.name = "AngularShop";
     this.applicationTimeout = createTimeSpan(1, 0, 0, 0);
     this.mappings["/"] = getDirectoryFromPath(getCurrentTemplatePath());
+    this.preserveCaseForStructKey = true;
 
     public boolean function onApplicationStart() {
 
